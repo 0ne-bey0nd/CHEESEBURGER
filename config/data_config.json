@@ -1,0 +1,14 @@
+{
+    "exchange_id": "okx",
+    "symbol": "ETH/USDT:USDT",
+    "timeframe": "1h",
+    "start_time": "2025-06-01 00:00:00",
+    "end_time": "2025-06-15 00:00:00",
+    "output_dir": "data",
+    "exchange_config": {
+        "proxies": {
+            "http": "http://127.0.0.1:10808/",
+            "https": "http://127.0.0.1:10808/"
+        }
+    }
+} 
